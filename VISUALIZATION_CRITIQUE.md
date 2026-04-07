@@ -2,6 +2,11 @@
 
 ### 1. Visualization 1: Boycott Impact and Themes (Academic Paper)
 
+
+
+
+
+
 **Image Source:**
 ![Boycott Themes Frequency]
 *Source: MDPI Journal (Academic Paper on Boycott Impacts)* - [Link to Source](https://www.mdpi.com/2075-4698/15/5/114)
